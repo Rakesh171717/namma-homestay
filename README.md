@@ -21,11 +21,23 @@ Many houses in rural and coastal areas have extra rooms and serve excellent loca
 
 ## Screenshots / App Visuals
 
-The following visuals are included in the repository and used by the app UI. After running on an emulator or phone, add real screen captures here for final submission if required.
+The repository includes real application screenshots captured from the Android app. These screens show both Host and Traveler workflows.
 
-| Homestay Visual | Food/Menu Visual | Local Guide Visual |
+### Authentication and Traveler Screens
+
+| Login | Traveler Home | Traveler Detail |
 |---|---|---|
-| <img src="app/src/main/res/drawable/hero_homestay.png" width="220" alt="Homestay visual"> | <img src="app/src/main/res/drawable/food_dosa.png" width="220" alt="Food visual"> | <img src="app/src/main/res/drawable/guide_waterfall.png" width="220" alt="Guide visual"> |
+| <img src="docs/screenshots/login.jpeg" width="220" alt="Login screen"> | <img src="docs/screenshots/traveler-home.jpeg" width="220" alt="Traveler home screen"> | <img src="docs/screenshots/traveler-detail.jpeg" width="220" alt="Traveler detail screen"> |
+
+### Host Screens
+
+| Host Dashboard | Host Profile | Daily Menu |
+|---|---|---|
+| <img src="docs/screenshots/host-dashboard.jpeg" width="220" alt="Host dashboard screen"> | <img src="docs/screenshots/host-profile.jpeg" width="220" alt="Host profile screen"> | <img src="docs/screenshots/daily-menu.jpeg" width="220" alt="Daily menu screen"> |
+
+| Inquiry Inbox | Calendar | Navigation Drawer |
+|---|---|---|
+| <img src="docs/screenshots/inbox.jpeg" width="220" alt="Inquiry inbox screen"> | <img src="docs/screenshots/calendar.jpeg" width="220" alt="Calendar availability screen"> | <img src="docs/screenshots/navigation-drawer.jpeg" width="220" alt="Navigation drawer screen"> |
 
 ## Features
 
@@ -286,7 +298,6 @@ This keeps private machine settings, Firebase config, and generated files out of
 
 ## Future Improvements
 
-- Add real app screenshots from emulator.
 - Add traveler inquiry creation from the detail screen.
 - Add host profile editing form for phone, name, location, and description.
 - Add map-based local guide.
