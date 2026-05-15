@@ -27,7 +27,7 @@ data class HomestayProfile(
         "Safety Guidelines" to false
     )
 )
-
+// class menu item
 data class MenuItem(
     val id: String = "",
     val name: String = "",
