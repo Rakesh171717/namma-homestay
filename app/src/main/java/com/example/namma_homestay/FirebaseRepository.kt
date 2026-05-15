@@ -1,5 +1,5 @@
 package com.example.namma_homestay
-
+//import all libraries and dependencies
 import android.net.Uri
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.firestore.ktx.firestore
