@@ -1,5 +1,5 @@
 package com.example.namma_homestay.screens
-
+//import all libraries and dependencies
 import android.content.Intent
 import android.net.Uri
 import androidx.compose.foundation.background
