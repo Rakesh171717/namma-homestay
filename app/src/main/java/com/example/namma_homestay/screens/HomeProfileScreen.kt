@@ -37,7 +37,7 @@ import coil.compose.AsyncImage
 import com.example.namma_homestay.HomestayViewModel
 import com.example.namma_homestay.R
 import kotlinx.coroutines.launch
-
+//import all libraries and dependencies
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HomeProfileScreen(
