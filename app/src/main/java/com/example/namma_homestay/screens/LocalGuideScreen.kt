@@ -1,5 +1,5 @@
 package com.example.namma_homestay.screens
-
+//import all libraries and dependencies
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
